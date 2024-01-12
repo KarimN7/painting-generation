@@ -8,7 +8,7 @@
   <h2>Karim Nasr - 2507575</h2>
 
   <p>Evolutionary Algorithms in Computational Art</p>
-
+  <p>Bachelor thesis project</p>
 </div>
 
 # Algorithms:
