@@ -28,9 +28,9 @@
  - starrynight.png
  
 ## Install the following:
- 
-Use pip to install the necessary python3 packages, such as:
- 
+
+Use pip to install the necessary packages, such as:
+(If python or pip doesn't work, then using python3 or pip3 should work.)
 ```bash
 pip install opencv-python
 #or
@@ -54,8 +54,6 @@ Paintings are stored in the **imgs** directory.
 ```
 python HC.py mona.png
 ```
-If python3 doesn't work, then using python3 should work.
- 
 ```
 python3 SA.py starrynight.png
 ```
