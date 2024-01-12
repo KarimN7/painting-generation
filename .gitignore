@@ -1,0 +1,38 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+venv/
+env/
+ENV/
+
+# IDEs and editors
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+
+# Compiled files
+*.pyc
+*.pyo
+*.pyd
+*.so
+*.dll
+*.exe
+*.msi
+*.egg-info/
+dist/
+build/
+*.egg
+
+# Logs and databases
+*.log
+*.sqlite3
+*.db
+
+# OS generated files
+Thumbs.db
+.DS_Store
