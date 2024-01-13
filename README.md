@@ -42,9 +42,9 @@ pip3 install opencv-python
 To use any of the three algorithms the following command is typed into the terminal:
  
 ```python
-python <algorithm>.py <painting>
+python <algorithm>.py <painting>.png
 #or
-python3 <algorithm>.py <painting>
+python3 <algorithm>.py <painting>.png
 ```
  
 Paintings are stored in the **imgs** directory.
