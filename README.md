@@ -52,10 +52,10 @@ Paintings are stored in the **imgs** directory.
 ### Examples:
  
 ```
-python HC.py mona.png
+python myHC.py mona.png
 ```
 ```
-python3 SA.py starrynight.png
+python3 mySA.py starrynight.png
 ```
  
 All results are stored in output_dir.
